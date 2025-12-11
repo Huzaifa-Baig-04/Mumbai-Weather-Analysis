@@ -16,3 +16,26 @@ Pandas
 NumPy
 Matplotlib & Seaborn
 Jupyter Notebook
+
+📂 Features
+✔ Data Cleaning & Preparation
+✔ Exploratory Data Analysis
+✔ Visualizing Temperature Trends
+✔ Rainfall Pattern Study
+✔ Humidity Analysis
+✔ Seasonal Comparison
+
+📊 Visualizations
+The project includes the following charts:
+Histograms (Distribution analysis)
+Heatmaps (Correlation matrix)
+Bar charts (Monthly rainfall)
+Line plots (Temperature trends)
+
+🎯 Project Outcome
+Clear understanding of Mumbai's climate trends
+Identified seasonal temperature and rainfall pattern
+Useful insights for environmental studies and data analysis learning
+
+👨‍💻 Author
+Huzaifa Baig
